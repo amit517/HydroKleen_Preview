@@ -12,7 +12,7 @@
 
 ## Screenshots
 
-<img src="./1.jpg" height ="500">     <img src="./2.jpg" height ="500">      <img src="./3.png" height ="500">
+<img src="./1.jpg" height ="500">   <br>  <img src="./2.jpg" height ="500">      <img src="./3.png" height ="500">
 <img src="./4.jpg" height ="500"> <br>     <img src="./5.png" height ="500">    <img src="./6.png" height ="500">
 <img src="./7.jpg" height ="500"> <br>     <img src="./8.png" height ="500"> 
-<img src="./9.png" height ="500">    <img src="./10.png" height ="500">
+<img src="./9.png" height ="500">    <img src="./10.jpg" height ="500">
